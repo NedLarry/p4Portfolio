@@ -106,8 +106,11 @@ nav ul li a {
     width: inherit;
     list-style: none;
     display: flex;
-    align-items: flex-start;
-    justify-items: normal;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
 }
 
 .contact ul li{
@@ -121,16 +124,14 @@ nav ul li a {
     cursor: auto;
     color: black;
     text-align: center;
-    align-self: flex-start;
-    margin-right: 40px;
     background-color: white;
 }
 
 .socials{
-    align-self: stretch;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 16px;
 }
 
 .contact ul li a{
@@ -288,6 +289,7 @@ Footer p{
         flex-direction: column;
         align-items: center;
         justify-content: space-evenly;
+        gap: 4px;
     }
 
     .contact ul li {

@@ -16,5 +16,11 @@
         "description": "A blog where users can post topics related to tags or opinions in general",
         "url": "https://blog-admin-gray-phi.vercel.app/",
         "icon": "/projects/images/blog-admin.png"
+    },
+        {
+        "projectname": "Social Games",
+        "description": "A platform for users to play social games and connect with others",
+        "url": "https://social-plug-eight.vercel.app/",
+        "icon": "/projects/images/social-games.png"
     }
 ]
